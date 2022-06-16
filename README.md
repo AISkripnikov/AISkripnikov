@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anton Skripnikov
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning аt the Institute in the 3rd year
+- 📫 How to reach me whith email - fanatik2912@gmail.com
